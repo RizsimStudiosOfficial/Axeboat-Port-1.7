@@ -1,0 +1,54 @@
+<!--
+FORMATTING:
+• (!line) - new line
+• (!bold/TEXT) - bold text
+• (!underline/TEXT) - underlined text
+• (!italic/text) - italic text
+• (!color/#HEX/TEXT) - colored text
+• (!emoji/EMOJI.png) - emoji
+• (!size/XXpx/TEXT) - text size
+• (!youtube/VIDEO_URL) - youtube video
+• (!button/#HEX/ICON.png/LINK/TEXT) - button
+• (!hr) - horizontal line
+-->
+
+<credits>
+  <page 
+  noImage="false"
+  image="mod-credits/axeboatshit/rizsim.png"
+  title="Mod was made by"
+  text="(!color/#d2da00/(!bold/Rizsim Studios!))(!line) Ported Axe Boat to (!color/#005cfa/(!bold/V9))  Code! (Did Sprites and stuff) (!line) Also go check my other works on my channel! (!hr) (!line) (!button/#4A4A4A/social_website.png/https://sites.google.com/view/rizsimstudios-mods/choose-mod-games//My Website) (!button/#e2811f/social_kofi.png/https://ko-fi.com/rizsimstudiosofficial//My Kofi) (!button/#8f1e22/social_youtube.png/https://www.youtube.com/@rizsimstudiosOfficial//My Channel )"
+  />
+  <page 
+  noImage="false"
+  image="mod-credits/axeboatshit/zeroux.png"
+  title="Sound Taken From"
+  text="(!color/#979797/(!bold/The Zeroux Team!)) (!line) For the (!color/#7a7ff6/(!bold/Chipsdel)) sound of course. (!line) Look at the channel here! (!hr) (!line) (!button/#8f1e22/social_youtube.png/https://www.youtube.com/@InactiveChannel.//Zeroux Team Channel )"
+  />
+  <page 
+  noImage="false"
+  image="mod-credits/axeboatshit/memory_001.png"
+  title="SWFS Taken From"
+  text="(!color/#32ccfe/(!bold/Memory_001!)) (!line) For the (!color/#d03227/(!bold/SWF)) files for me to convert over. (!line) Look at the channel here! (!hr) (!line) (!button/#8f1e22/social_youtube.png/https://www.youtube.com/@memory_001//Memory_001 Channel )"
+  />
+  <page 
+  noImage="false"
+  image="mod-credits/axeboatshit/jasel.png"
+  title="HQ BG Recreation by"
+  text="(!color/#2d73c3/(!bold/Jasel1923!)) (!line) Gave ideas for remaking some things (!line) Look at the channel here! (!hr) (!line) (!button/#8f1e22/social_youtube.png/https://www.youtube.com/@Jasel1923//Jasel1923 Channel )"
+  />  
+  <page 
+  noImage="false"
+  image="mod-credits/01c_remmie-hd.png"
+  title="Special Thanks!"
+  text="Incredibox Modding Build created with passion by (!color/#64b1e8/(!bold/Rem))! Love creative mods and unique sounds? Support her work and explore more on her channel! (!line)(!line)(!hr)(!line) (!button/#8f1e22/social_youtube.png/https://www.youtube.com/@rin.Incredibox//Rem's Channel)"
+  />
+  <page 
+  noImage="false"
+  image="mod-credits/03c_sofarsogood-hd.png"
+  title="INCREDIBOX BY SO FAR SO GOOD!"
+  text="And of course the official developers of Incredibox, (!bold/Allan), (!bold/Romain) and Incredible (!bold/Polo)! Without them, this project wouldn't exist! (!line)(!line)(!hr)(!line)Buy Official Incredibox for more fun and to support the team!(!line)(!line)(!button/#4A4A4A/sfsg-credits-button.png/https://www.incredibox.com//Incredibox Website)(!button/#4A4A4A/sfsg-credits-button.png/https://www.incredibox.com/info/store/Buy Incredibox)"
+  />
+</credits>
+
+<!--You can edit or change my credits, but please remember to credit me somewhere as well for using my build! Thank you! ✨-->
