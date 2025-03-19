@@ -20,7 +20,7 @@ build = { // BUILD STUFF HERE!
     htmlExt: "html"
 }, 
 domainOnline = "https://www.incredibox.com/", 
-sndExt = "ogg", // change "ogg" to mp3 for ios support otherwise leave this shit alone!
+sndExt = "mp3", // change "ogg" to mp3 for ios support otherwise leave this shit alone!
 vidExt = "mp4",  // keep this at "mp4" for ios support can change to "webm" if you want to!
 appCN = false, 
 machine = {}, 
